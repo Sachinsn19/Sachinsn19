@@ -1,5 +1,6 @@
 
-<h3 align="center">A passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Analyst from Kerala,![a64d16157d53a9bd8a109157df1d019f](https://user-images.githubusercontent.com/85150311/131162546-6571e0a6-46e4-461d-b8d7-1d924b6539a9.png)
+ India</h3>
 
 - 🔭 I’m currently working on [jf](nb)
 
