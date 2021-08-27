@@ -33,7 +33,7 @@
  <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
  <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a><br>
  
-  <a href="https://www.tableau.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/85150311/131167548-b79cdd82-df72-44f1-8991-8545607cde52.png" alt="tableau" width="40" height="40"/> </a><br>
+  <a href="https://www.tableau.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/85150311/131167548-b79cdd82-df72-44f1-8991-8545607cde52.png" alt="tableau" width="50" height="40"/> </a><br>
  
  <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> 
  <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
