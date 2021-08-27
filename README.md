@@ -1,5 +1,4 @@
-<![RStudio-Ball](https://user-images.githubusercontent.com/85150311/131161914-76943343-191c-4d52-932b-75e2cb8a65f3.png)!>
- <h1 align="center">Hi 👋, I'm Sachin</h1>
+
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 - 🔭 I’m currently working on [jf](nb)
