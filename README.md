@@ -1,4 +1,4 @@
- 👋 Hi, I’m @Sachin
+ <hr>👋 Hi, I’m @Sachin</hr>
  
  👨‍💻 I’m interested in Data Analytics
  
