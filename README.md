@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Data Analyst from Kerala, India</h3>
 
 
-- 🔭 I’m currently working on [jf](nb)
+<!- 🔭 I’m currently working on [jf](nb)
 
 - 🌱 I’m currently learning **ghfjjgv**
 
@@ -12,7 +12,7 @@
 
 - 💬 Ask me about **hb,v**
 
-- 📫 How to reach me **bcn@**
+- 📫 How to reach me **bcn@** !>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
