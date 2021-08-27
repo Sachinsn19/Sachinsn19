@@ -4,6 +4,7 @@
  
  👨‍🎓 I’m currently learning MSc Operation Research and Computer Application
  
+ 
  🔎 I’m looking to collaborate on Data Analysis project 
  
  🔗Connect with me
