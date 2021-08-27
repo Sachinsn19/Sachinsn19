@@ -1,6 +1,6 @@
- <hr>👋 Hi, I’m @Sachin</hr>
+ 👋 Hi, I’m @Sachin
  
- 👨‍💻 I’m interested in Data Analytics
+ <hr>👨‍💻 I’m interested in Data Analytics</hr>
  
  👨‍🎓 I’m currently learning MSc Operation Research and Computer Application
  
