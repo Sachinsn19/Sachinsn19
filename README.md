@@ -1,6 +1,6 @@
 
 <h3 align="center">A passionate Data Analyst from Kerala, India</h3>
-<img src="https://user-images.githubusercontent.com/85150311/131164563-8d4b9496-cfe2-4898-a264-51bf6e13b4e7.gif" alt="pic" align="right"/> 
+<img src="https://user-images.githubusercontent.com/85150311/131164563-8d4b9496-cfe2-4898-a264-51bf6e13b4e7.gif" alt="pic"width="100" height="100" align="right"/> 
 
 
 - 🔭 I’m currently working on [jf](nb)
