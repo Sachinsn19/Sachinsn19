@@ -2,17 +2,14 @@
 <h3 align="center">A passionate Data Analyst from Kerala, India</h3>
 
 
-<!- 🔭 I’m currently working on [jf](nb)
+<!- 🔭 I’m interested in Data Analytics
 
-- 🌱 I’m currently learning **ghfjjgv**
+- 🌱 I’m currently learning **MSc Operation Research and Computer Application**
 
-- 👯 I’m looking to collaborate on [kj](vbv)
+- 👯 I’m looking to collaborate on Data Analyst Project
 
-- 🤝 I’m looking for help with [hhvb](bvnb)
 
-- 💬 Ask me about **hb,v**
-
-- 📫 How to reach me **bcn@** !>
+- 📫 How to reach me **sachinbca214101998@gmail.com** !>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
