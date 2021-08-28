@@ -2,11 +2,11 @@
 <h3 align="center">A passionate Data Analyst from Kerala, India</h3>
  <br>
  
-- 🔭 I’m interested in Data Analytics
+- 🔭 I’m interested in **Data Analytics**
 
 - 🌱 I’m currently learning **MSc Operation Research and Computer Application**
 
-- 👯 I’m looking to collaborate on Data Analyst Project
+- 👯 I’m looking to collaborate on **Data Analyst Project**
 
 
 - 📫 How to reach me **sachinbca214101998@gmail.com** 
