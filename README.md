@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Sachin</h1>
 <h3 align="center">A passionate Data Analyst from Kerala, India</h3>
 
-
+<p>
 - 🔭 I’m interested in Data Analytics
 
 - 🌱 I’m currently learning **MSc Operation Research and Computer Application**
@@ -10,6 +10,8 @@
 
 
 - 📫 How to reach me **sachinbca214101998@gmail.com** 
+
+ </p>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
