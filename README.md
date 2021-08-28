@@ -2,6 +2,7 @@
 <h3 align="center">A passionate Data Analyst from Kerala, India</h3>
 
 <p>
+ 
 - 🔭 I’m interested in Data Analytics
 
 - 🌱 I’m currently learning **MSc Operation Research and Computer Application**
