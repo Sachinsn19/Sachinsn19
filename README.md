@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Sachin</h1>
-<h3 align="center">A passionate Data Analyst from Kerala, India</h3>
+<h3 align="center">A passionate Data Analyst from Thrissur, Kerala, India</h3>
  <br>
  
 - 🔭 I’m interested in **Data Analytics**
@@ -24,7 +24,7 @@
 
 
 <br>
-<h3 align="left">Languages and Tools:</h3>
+<h3 align="left">Languages and Tools I Know:</h3>
 <hr><p align="left"></hr> 
  <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="20"/> </a>
  <a href="https://https://www.r-project.org" target="_blank"> <img src="https://user-images.githubusercontent.com/85150311/131162546-6571e0a6-46e4-461d-b8d7-1d924b6539a9.png" alt="R" width="40" height="30"/> </a>
