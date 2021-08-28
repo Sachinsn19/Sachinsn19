@@ -26,10 +26,10 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
- <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
- <a href="https://https://www.r-project.org" target="_blank"> <img src="https://user-images.githubusercontent.com/85150311/131162546-6571e0a6-46e4-461d-b8d7-1d924b6539a9.png" alt="R" width="50" height="50"/> </a>
- <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a>
- <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
+ <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="30" height="30"/> </a>
+ <a href="https://https://www.r-project.org" target="_blank"> <img src="https://user-images.githubusercontent.com/85150311/131162546-6571e0a6-46e4-461d-b8d7-1d924b6539a9.png" alt="R" width="40" height="40"/> </a>
+ <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="30" height="30"/> </a>
+ <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="30" height="30"/> </a>
  
   <a href="https://www.tableau.com/" target="_blank"> <img src="https://user-images.githubusercontent.com/85150311/131167548-b79cdd82-df72-44f1-8991-8545607cde52.png" alt="tableau" width="70" height="45"/> </a>
  
