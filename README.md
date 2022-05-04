@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sachin</h1>
-<h3 align="center">A passionate Data Analyst from Thrissur, Kerala, India</h3>
+<h3 align="center">A passionate Machine Learning Engineer from Thrissur, Kerala, India</h3>
  <br>
  
-- 🔭 I’m interested in **Data Analytics**
+- 🔭 I’m interested in **Machine Learning**
 
-- 🌱 I’m currently learning **MSc Operation Research and Computer Application**
+- 🌱 I’m studied **MSc Operation Research and Computer Application**
 
-- 👯 I’m looking to collaborate on **Data Analyst Project**
+- 👯 I’m looking to collaborate on **Machine Learning Project**
 
 
 - 📫 How to reach me **sachinbca214101998@gmail.com** 
