@@ -6,7 +6,7 @@
 
 - 🌱 I’m studied **MSc Operation Research and Computer Application**
 
-- 👯 I’m looking to collaborate on **Machine Learning Project**
+- 👯 I’m looking to collaborate on **Machine Learning Projects**
 
 
 - 📫 How to reach me **sachinbca214101998@gmail.com** 
